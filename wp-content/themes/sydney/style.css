@@ -3660,3 +3660,11 @@ div[class*="elementor-widget-wp-widget-sydney"] h5 {
 	margin-left: -182px;
 	margin-right: -182px;
 }
+
+/**
+ Custom font styles
+ */
+
+.site-title {
+	font-family: 'Lora', serif;
+}

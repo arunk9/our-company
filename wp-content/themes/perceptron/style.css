@@ -1,0 +1,19 @@
+/*
+Theme Name: Perceptron
+Template: sydney
+*/
+
+.site-header.float-header {
+	background-image: url(./images/logo-bg-v5.jpg);
+}
+
+.site-title {
+	font-family: 'Lora', serif;
+}
+
+
+@media only screen and (max-width: 1024px) {
+	.site-header {
+	    background-image: url(./images/logo-bg-v5.jpg);
+	}
+}
